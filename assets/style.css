@@ -1,5 +1,18 @@
+html{
+    min-height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-top: black solid 40px;
+    border-bottom: black solid 40px;
+}
+
 body{
-    background-color:lightskyblue
+    background-color:lightsalmon;
+    min-height:100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 button{
@@ -33,7 +46,7 @@ img{
 
 #inputArea{
     margin-top:2%;
-    background-color:lightcoral;
+    background-color:lightskyblue;
     height: 100%;
     border-left:solid black 2px;
     border-top:solid black 2px;
