@@ -26,10 +26,11 @@ img{
 }
 
 .gifItem{
-    width:300px;
-    height:300px;
+    width:125px;
+    height:125px;
+    margin:1rem 2rem 2rem 2rem;
+    align-content:center;
     float:left;
-    margin:2%;
 }
 
 .form-group{
