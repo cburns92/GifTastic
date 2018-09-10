@@ -1,5 +1,5 @@
 body{
-    background-color:lightsalmon
+    background-color:lightskyblue
 }
 
 button{
@@ -33,7 +33,7 @@ img{
 
 #inputArea{
     margin-top:2%;
-    background-color:lightskyblue;
+    background-color:lightcoral;
     height: 100%;
     border-left:solid black 2px;
     border-top:solid black 2px;
